@@ -55,11 +55,11 @@ Durante o desenvolvimento deste projeto, foram aplicados os seguintes conceitos:
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/w7-silva/Sorteador-de-numeros.git
 
 Acesse o diretório do projeto:
 
-cd nome-do-repositorio
+cd Sorteador-de-numeros
 
 Abra o arquivo index.html em um navegador.
 
