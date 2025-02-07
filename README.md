@@ -71,8 +71,5 @@ Abra o arquivo index.html em um navegador.
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um Issue ou enviar um Pull Request.
 
-📜 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 Feito com carinho durante os estudos na Alura, vamos pra cima.
